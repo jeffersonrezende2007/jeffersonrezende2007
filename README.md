@@ -11,9 +11,6 @@
   <a href="mailto:jeffersonrezende2007@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://curriculo-jefferson-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
-  </a>
 </p>
 
 ---
@@ -118,8 +115,5 @@ Buscando oportunidades de **Estágio ou Júnior** nas áreas de:
   </a>
   <a href="mailto:jeffersonrezende2007@gmail.com">
     <img src="https://img.shields.io/badge/Email-Entrar%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://curriculo-jefferson-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-Visitar-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
   </a>
 </p>
